@@ -2,7 +2,7 @@
 #define __PROWL_H__
 
 //char apikey[] = "abcdefghijklmnopqrstuvwxyz01234567890abc";
-unsigned long deactivationInterval = 60000; // 1 minute
+unsigned long deactivationInterval = 30000; // 1/2 minute
 char application[] = "iDoorbell";
 
 char apikeyParam[] = "apikey=";
