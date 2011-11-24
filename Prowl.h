@@ -1,7 +1,8 @@
 #ifndef __PROWL_H__
 #define __PROWL_H__
 
-//char apikey[] = "abcdefghijklmnopqrstuvwxyz01234567890abc";
+// See Credentials.h for authentication configuration
+
 unsigned long deactivationInterval = 30000; // 1/2 minute
 char application[] = "iDoorbell";
 
